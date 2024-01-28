@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/tractoan/Iec104MasterDnp3Master.git
+[submodule "lib/lib60870"]
+	path = lib/lib60870
+	url = https://github.com/tractoan/lib60870.git
+[submodule "lib/opendnp3"]
+	path = lib/opendnp3
+	url = https://github.com/tractoan/opendnp3.git
